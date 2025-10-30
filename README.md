@@ -48,10 +48,6 @@ EnhancedNotepad/
 
 ![Encryption Screenshot](assets/screenshots/Encryption.png)
 
-**Status Bar Details:**
-
-![Status Bar Screenshot](assets/screenshots/Sample2.png)
-
 ---
 
 ## 🚀 Installation
