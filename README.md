@@ -46,7 +46,7 @@ EnhancedNotepad/
 
 **Encryption Dialog:**
 
-![Encryption Screenshot](assets/screenshots/encryption.png)
+![Encryption Screenshot](assets/screenshots/Encryption.png)
 
 **Status Bar Details:**
 
