@@ -13,7 +13,7 @@ ABOUT_ICON_PATH=:/assets/icons/about_icon.png
 DONATE_ICON_PATH=:/assets/icons/donate_icon.png
 HELP_ICON_PATH=:/assets/icons/help_icon.png
 MAYA_QR_PATH=:/assets/resources/maya_bin_file
-MAYA_QR_KEY=KqTen1MmkOycHJp5HqBkcaCWZ7Be8p-ClzSf9srKm3c=
+MAYA_QR_KEY=your_maya_key
 
 GITHUB_ID=https://github.com/yourname
 KOFI_ID=https://ko-fi.com/post/yourpost
