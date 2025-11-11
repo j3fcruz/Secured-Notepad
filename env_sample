@@ -21,6 +21,5 @@ PAYPAL_ID=https://paypal.me/yourname
 
 BTC_NAME=Bitcoin (BTC) Address
 ETH_NAME=Ethereum (ETH) Address
-BTC_ID=1BcWJT8gBdZSPwS8UY39X9u4Afu1nZSzqk
-ETH_ID=0xcd5eef32ff4854e4cefa13cb308b727433505bf4
-
+BTC_ID=your_bitcoin_id
+ETH_ID=your_eth_id
